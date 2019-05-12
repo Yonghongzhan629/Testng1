@@ -27,7 +27,7 @@ public class TestScreenshot extends Basic {
 	public void Takescreenshot()
 	{
 		
-		Assert.assertEquals(true, true);
+		Assert.assertEquals(false, true);
 	}
 @Test
 	public void Takescreenshot1()
